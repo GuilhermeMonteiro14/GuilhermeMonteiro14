@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Guilherme Monteiro
 
-<!--
-**GuilhermeMonteiro14/GuilhermeMonteiro14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação – FECAP (em andamento)  
+💻 Interesse em desenvolvimento backend e lógica de programação  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+Sou estudante de Ciência da Computação com foco em lógica de programação, algoritmos e desenvolvimento backend.  
+Tenho experiência acadêmica com projetos de jogos e aplicações web, aplicando conceitos de lógica, estruturas de decisão, banco de dados e APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente busco uma oportunidade de estágio para aprender, evoluir tecnicamente e contribuir com projetos reais.
+
+## 🛠️ Tecnologias e Conceitos
+- Lógica de Programação
+- Algoritmos
+- SQL e Banco de Dados Relacional
+- JavaScript (Node.js)
+- C#
+- APIs REST
+- Git e GitHub
+
+## 📂 Projetos
+- 🎮 **EcoMayor** – Jogo educacional de simulação  
+- 🌐 **Conexões Empáticas** – Plataforma Web Full Stack  
+
+*(Links disponíveis nos repositórios fixados)*
+
+## 📫 Contato
+- LinkedIn: www.linkedin.com/in/guilherme-monteiro14
